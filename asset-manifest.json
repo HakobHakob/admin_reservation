@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/admin_reservation/static/js/main.c91ec1a1.js",
+    "index.html": "/admin_reservation/index.html",
+    "main.c91ec1a1.js.map": "/admin_reservation/static/js/main.c91ec1a1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c91ec1a1.js"
+  ]
+}
